@@ -113,24 +113,12 @@ Every AI-generated line goes through exactly the same review as hand-written cod
 
 </details>
 
----
 
-### 📊 `> stats --live`
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B6CF0&icon_color=8B6CF0&text_color=9aa4b2&rank_icon=github"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=8B6CF0&text_color=9aa4b2"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=8B6CF0&fire=8B6CF0&currStreakLabel=8B6CF0&sideLabels=9aa4b2&dates=6b7280&currStreakNum=9aa4b2&sideNums=9aa4b2" height="165"/>
-</p>
-
----
 
 ### 📡 `> ping me`
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/oleksandryermak-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/oleksandr-yermak-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:yetmakoleksandr@gmail.com"><img src="https://img.shields.io/badge/Email-7b5cd6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
